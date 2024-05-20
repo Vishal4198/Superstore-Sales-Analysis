@@ -8,4 +8,4 @@ The Superstore Sales Performance dashboard provides an in-depth analysis of sale
 * Profitability: Insights into profit margins across different regions and product lines, helping to pinpoint profitable areas.
 * Customer Segmentation: The dashboard includes segmentation of customers, showing contributions to sales and profit.
 
-You can view the dashboard by clicking [here](<>)
+You can view the dashboard by clicking [here](https://vishal4198.github.io/Superstore-Sales-Analysis/)
